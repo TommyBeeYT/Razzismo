@@ -1,3 +1,17 @@
 .Razzismo {
-    font-size: 36px;
+    font-size: 38px;
+};
+
+.Red {
+    font-size: 40px;
+};
+
+body {
+    background-image: url(Background.jpg);
+    background-size: 100%;
+};
+
+.SIZE {
+    width: 1630;
+    height: 900;
 }

@@ -1,3 +1,8 @@
 .By {
     font-size: 70px;
 }
+
+body {
+    background-image: url(Background.jpg);
+    background-size: 100%;
+};
