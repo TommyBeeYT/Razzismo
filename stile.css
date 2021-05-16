@@ -1,8 +1,10 @@
 .By {
     font-size: 70px;
+    color: white;
 }
 
 body {
-    background-image: url(Background.jpg);
+    background-image: url(Background.png);
     background-size: 100%;
 };
+
