@@ -20,3 +20,57 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+
+nav{
+    background-color: #ff0000;
+    color: white;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li a{
+    text-decoration: none;
+    color: white;
+}
+
+nav li:hover{
+    background-color: #f7a0a0;
+}
+
+nav li{
+    padding: 15px;
+    display: inline-block;
+}
+
+
+.dropdown{
+    padding: 14px 16px;
+
+}
+
+.dropdown-content{
+    position: absolute;
+    background-color: #f7a0a0;
+    margin-top: 14px;
+    left: 160px;
+    display: none;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+.dropdown-content a:hover{
+    background-color: #f0bcbc;
+}
+
+
+.dropdown-content a{
+    display: block;
+    padding: 15px;
+}
